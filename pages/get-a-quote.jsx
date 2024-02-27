@@ -127,8 +127,6 @@ const Form = () => {
                       }) => (
                         <form
                             name={"quote-form123"}
-                            data-netlify={true}
-                            netlify-honeypot="bot-field"
                             onSubmit={(e) => {
                                 handleSubmit(e);
                             }}
