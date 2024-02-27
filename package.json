@@ -1,0 +1,41 @@
+{
+  "name": "tib-next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-brands-svg-icons": "^5.15.4",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/react-fontawesome": "^0.1.15",
+    "@headlessui/react": "^1.4.1",
+    "@netlify/plugin-nextjs": "^3.9.0",
+    "formik": "^2.2.9",
+    "framer-motion": "^4.1.17",
+    "fuzzy-search": "^3.2.1",
+    "next": "11.1.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-photo-gallery": "^8.0.0",
+    "sharp": "^0.29.1",
+    "simple-react-lightbox": "^3.6.9-0",
+    "swiper": "^7.0.8",
+    "yup": "^0.32.9"
+  },
+  "devDependencies": {
+    "@heroicons/react": "^1.0.4",
+    "@tailwindcss/typography": "^0.4.1",
+    "autoprefixer": "^10.3.7",
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.2",
+    "file-loader": "^6.2.0",
+    "postcss": "^8.3.9",
+    "prettier": "^2.4.1",
+    "tailwindcss": "^2.2.16"
+  }
+}

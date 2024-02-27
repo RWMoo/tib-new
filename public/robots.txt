@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow:
+Disallow: /error/
+Disallow: /success/
+Disallow: /terms-and-conditions/
+Disallow: /privacy-policy/
+Disallow: /insurance-products/*?*
+Sitemap: https://www.territoryinsurancebrokers.com.au/sitemap
